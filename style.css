@@ -1,0 +1,131 @@
+.nav-text-color{
+    color:white;
+}
+#nav-text-color{
+    color:white;
+}
+#nav-text-color:hover{
+    color:yellow;
+}
+.caro-img{
+    background-image:url('assets/pic1.jpg');
+    height:80vh;
+    width: 100vw;
+    background-size: cover;
+}
+.cardd{
+    background-color: #072445;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color:white;
+}
+.caro-img-1{
+    background-image:url('assets/pic2.jpg');
+    height:80vh;
+    background-size: cover;
+    width: 100vw;
+}
+.caro-img-2{
+    background-image:url('assets/pic3.jpg');
+    height:80vh;
+    width: 100vw;
+    background-size: cover;
+}
+.cont{
+    position:relative;
+    text-align:center;
+    margin-top: 20em;
+}
+.button{
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius:0px;
+    width:130px;
+}
+.about-style{
+    text-align:center;
+}
+.heading{
+    color:#072445;
+}
+.info-card{
+    color:#072445;
+    padding: 20px;
+    background-color:#DDDDDD;
+}
+.services-sec{
+    background-color:#DDDDDD;
+}
+.service-card{
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius:0px;
+}
+.details-info{
+    background-image: url('assets/pic3.jpg');
+    height: 30vh;
+    background-size:cover;
+}
+.emp-info-card{
+    text-align:center;
+    background-color:white;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius:0px;
+    box-shadow: 5px 5px;
+}
+.image-resize{
+    border-radius:50%;
+}
+.client-bg{
+    background-image: url('assets/pic2.jpg');
+    background-size:cover;
+    width:100%;
+}
+.client-card{
+    text-align:center;
+    background-color:white;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius:0px;
+}
+.contact-bg{
+    background-color:#93C6E7;
+    background-size:cover;
+}
+.map-sec{
+    height: 30vh;
+    width:100vw;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 5px;
+}
+.map-resize{
+    width:100%;
+    height: 100%;
+}
+.navigation{
+    background-color: #DDDDDD;
+    border-color:#DDDDDD;
+}
+.blog-card{
+    background-color:#DDDDDD;
+}
+.blog-button{
+    background-color: #072445;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius:0px;
+    width:130px;
+    color: white;
+}
+.main-data {
+    position: relative;
+    top: -55px;
+}
